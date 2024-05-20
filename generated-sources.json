@@ -3,7 +3,7 @@
         "type": "git",
         "url": "https://github.com/AparokshaUI/Adwaita",
         "disable-shallow-clone": true,
-        "commit": "903216198515a3f37352a8cab628135227d69c47",
+        "commit": "c82957e2398a766458ff22129db26b46de75248b",
         "dest": ".build/checkouts/Adwaita"
     },
     {
@@ -17,28 +17,14 @@
         "type": "git",
         "url": "https://github.com/AparokshaUI/Localized",
         "disable-shallow-clone": true,
-        "commit": "a00d5d40314d42a227fae8214986a6497c68573e",
+        "commit": "8135771fc0852cdea4361674d964d1c2e048db05",
         "dest": ".build/checkouts/Localized"
-    },
-    {
-        "type": "git",
-        "url": "https://github.com/stackotter/swift-macro-toolkit",
-        "disable-shallow-clone": true,
-        "commit": "106daeb38eb3f52b1540aed981fc63fa22274576",
-        "dest": ".build/checkouts/swift-macro-toolkit"
-    },
-    {
-        "type": "git",
-        "url": "https://github.com/apple/swift-syntax",
-        "disable-shallow-clone": true,
-        "commit": "74203046135342e4a4a627476dd6caf8b28fe11b",
-        "dest": ".build/checkouts/swift-syntax"
     },
     {
         "type": "git",
         "url": "https://github.com/jpsim/Yams",
         "disable-shallow-clone": true,
-        "commit": "0d9ee7ea8c4ebd4a489ad7a73d5c6cad55d6fed3",
+        "commit": "9234124cff5e22e178988c18d8b95a8ae8007f76",
         "dest": ".build/checkouts/Yams"
     },
     {
