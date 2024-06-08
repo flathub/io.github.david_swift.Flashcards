@@ -8,6 +8,13 @@
     },
     {
         "type": "git",
+        "url": "https://github.com/truizlop/FuzzyFind",
+        "disable-shallow-clone": true,
+        "commit": "8c4a858ddbe23f91ffca595ba7892ded56a420e8",
+        "dest": ".build/checkouts/FuzzyFind"
+    },
+    {
+        "type": "git",
         "url": "https://github.com/david-swift/LevenshteinTransformations",
         "disable-shallow-clone": true,
         "commit": "c5665914a26d3f96e1b724acc7254b344acf4d05",
