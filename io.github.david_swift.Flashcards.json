@@ -37,8 +37,8 @@
         {
           "type": "git",
           "url": "https://github.com/david-swift/Flashcards.git",
-          "tag": "0.2.3",
-          "commit": "7593a76a27a79692ebfea44bb72be325d115a1a0"
+          "tag": "0.2.4",
+          "commit": "d0a52fb4acf07c5844ee54e5085a1639a0e76e5b"
         },
         "generated-sources.json"
       ],
