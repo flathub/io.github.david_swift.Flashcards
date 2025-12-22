@@ -1,10 +1,10 @@
 {
   "app-id": "io.github.david_swift.Flashcards",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "46",
+  "runtime-version": "49",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
-    "org.freedesktop.Sdk.Extension.swift5"
+    "org.freedesktop.Sdk.Extension.swift6"
   ],
   "command": "Flashcards",
   "finish-args": [
@@ -14,8 +14,8 @@
     "--socket=wayland"
   ],
   "build-options": {
-    "append-path": "/usr/lib/sdk/swift5/bin",
-    "prepend-ld-library-path": "/usr/lib/sdk/swift5/lib"
+    "append-path": "/usr/lib/sdk/swift6/bin",
+    "prepend-ld-library-path": "/usr/lib/sdk/swift6/lib"
   },
   "cleanup": [
     "/include",
@@ -36,9 +36,9 @@
       "sources": [
         {
           "type": "git",
-          "url": "https://github.com/david-swift/Flashcards.git",
-          "tag": "0.2.4",
-          "commit": "d0a52fb4acf07c5844ee54e5085a1639a0e76e5b"
+          "url": "https://github.com/david-swift/Memorize.git",
+          "tag": "0.2.5",
+          "commit": "32b3705c42a8a96f5264e7f042bdd904d2b3a229"
         },
         "generated-sources.json"
       ],

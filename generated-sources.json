@@ -17,7 +17,7 @@
         "type": "git",
         "url": "https://github.com/david-swift/LevenshteinTransformations",
         "disable-shallow-clone": true,
-        "commit": "c5665914a26d3f96e1b724acc7254b344acf4d05",
+        "commit": "002c3ae5c48f30d61c96045fd3ceb9928aa778d2",
         "dest": ".build/checkouts/LevenshteinTransformations"
     },
     {
@@ -31,7 +31,7 @@
         "type": "git",
         "url": "https://github.com/jpsim/Yams",
         "disable-shallow-clone": true,
-        "commit": "9234124cff5e22e178988c18d8b95a8ae8007f76",
+        "commit": "3d6871d5b4a5cd519adf233fbb576e0a2af71c17",
         "dest": ".build/checkouts/Yams"
     },
     {
